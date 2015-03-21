@@ -22,6 +22,9 @@
  
  **********************************************************************************/
 
+#define OF_VERSION 7 
+#define OF_VERSION_MINOR 4
+
 #ifndef OFXUI_CANVAS
 #define OFXUI_CANVAS
 

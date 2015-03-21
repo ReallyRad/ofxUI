@@ -1,67 +1,67 @@
 <Widget>
     <Kind>4</Kind>
     <Name>RED</Name>
-    <Value>225.126</Value>
+    <Value>106.694557190</Value>
 </Widget>
 <Widget>
     <Kind>4</Kind>
     <Name>GREEN</Name>
-    <Value>8.53556</Value>
+    <Value>89.623428345</Value>
 </Widget>
 <Widget>
     <Kind>4</Kind>
     <Name>BLUE</Name>
-    <Value>52.2803</Value>
+    <Value>94.958160400</Value>
 </Widget>
 <Widget>
     <Kind>5</Kind>
     <Name>0</Name>
-    <Value>150</Value>
+    <Value>50.999996185</Value>
 </Widget>
 <Widget>
     <Kind>5</Kind>
     <Name>1</Name>
-    <Value>150</Value>
+    <Value>54.187492371</Value>
 </Widget>
 <Widget>
     <Kind>5</Kind>
     <Name>2</Name>
-    <Value>150</Value>
+    <Value>33.468757629</Value>
 </Widget>
 <Widget>
     <Kind>5</Kind>
     <Name>3</Name>
-    <Value>150</Value>
+    <Value>92.437500000</Value>
 </Widget>
 <Widget>
     <Kind>5</Kind>
     <Name>4</Name>
-    <Value>150</Value>
+    <Value>188.062500000</Value>
 </Widget>
 <Widget>
     <Kind>5</Kind>
     <Name>5</Name>
-    <Value>150</Value>
+    <Value>200.812500000</Value>
 </Widget>
 <Widget>
     <Kind>5</Kind>
     <Name>6</Name>
-    <Value>150</Value>
+    <Value>94.031242371</Value>
 </Widget>
 <Widget>
     <Kind>5</Kind>
     <Name>7</Name>
-    <Value>150</Value>
+    <Value>60.562503815</Value>
 </Widget>
 <Widget>
     <Kind>5</Kind>
     <Name>8</Name>
-    <Value>150</Value>
+    <Value>46.218742371</Value>
 </Widget>
 <Widget>
     <Kind>2</Kind>
     <Name>RAD1</Name>
-    <Value>0</Value>
+    <Value>1</Value>
 </Widget>
 <Widget>
     <Kind>2</Kind>
@@ -76,7 +76,7 @@
 <Widget>
     <Kind>2</Kind>
     <Name>RAD4</Name>
-    <Value>0</Value>
+    <Value>1</Value>
 </Widget>
 <Widget>
     <Kind>2</Kind>
@@ -96,12 +96,12 @@
 <Widget>
     <Kind>6</Kind>
     <Name>RSLIDER</Name>
-    <HighValue>210.188</HighValue>
-    <LowValue>50</LowValue>
+    <HighValue>210.188003540</HighValue>
+    <LowValue>50.000000000</LowValue>
 </Widget>
 <Widget>
     <Kind>11</Kind>
     <Name>PAD</Name>
-    <XValue>5</XValue>
-    <YValue>90</YValue>
+    <XValue>5.000000000</XValue>
+    <YValue>90.000000000</YValue>
 </Widget>

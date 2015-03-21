@@ -1,12 +1,12 @@
 <Widget>
     <Kind>12</Kind>
     <Name>TEXT INPUT</Name>
-    <Value>Input Text</Value>
+    <Value>Input Text&#x1B;</Value>
 </Widget>
 <Widget>
     <Kind>8</Kind>
     <Name>NUMBER DIALER</Name>
-    <Value>1000</Value>
+    <Value>1000.000000000</Value>
 </Widget>
 <Widget>
     <Kind>17</Kind>
